@@ -22,11 +22,11 @@ msgid "!Bang Search Shortcuts"
 msgstr "!Bang meklētāja saīsnes"
 
 msgctxt "showcase_donations"
-msgid "$800,000 in privacy donations!"
+msgid "$800,000 ziedojums privātuma atbalstam!"
 msgstr ""
 
 msgctxt "SERP footer content"
-msgid "%s Billion Searches"
+msgid "%s miljards meklējumu"
 msgstr ""
 
 msgid "%s blocked by safe search."
@@ -37,14 +37,14 @@ msgid "%s for %s"
 msgstr "%s priekš %s"
 
 msgctxt "showcase_donations"
-msgid "%s in privacy donations!"
+msgid "%s ziedojumi privātumam!"
 msgstr ""
 
 msgid "%s km"
-msgstr ""
+msgstr "%s km"
 
 msgid "%s mi"
-msgstr ""
+msgstr "%s jūdzes"
 
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
@@ -92,7 +92,7 @@ msgstr ""
 
 msgctxt "install-extension"
 msgid "1. Open %sDownloads%s"
-msgstr ""
+msgstr "1. Atver %sLejupielādes%s"
 
 msgctxt "install-extension"
 msgid "2. Double-click %sduckduckgo.safariextz%s"
@@ -134,30 +134,30 @@ msgstr "Reklāma"
 
 msgctxt "feedback form"
 msgid "Ad is annoying"
-msgstr ""
+msgstr "Reklāma ir kaitinoša"
 
 msgctxt "feedback form"
 msgid "Ad is inappropriate"
-msgstr ""
+msgstr "Reklāma ir nepiemērota"
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
-msgstr ""
+msgstr "Reklāma nav saistoša"
 
 msgctxt "feedback form"
 msgid "Ad is malware"
-msgstr ""
+msgstr "Reklāma ir bīstama"
 
 msgctxt "feedback form"
 msgid "Ad is suspicious"
-msgstr ""
+msgstr "Reklāma ir aizdomīga"
 
 #. From Home page, options to "Add DuckDuckGo" to browser or set as home page.
 msgid "Add DuckDuckGo"
 msgstr "Pievienot DuckDuckGo"
 
 msgid "Add DuckDuckGo as a search engine"
-msgstr ""
+msgstr "Pievieno DuckDuckGo meklēšanai"
 
 msgid "Add DuckDuckGo to %s"
 msgstr ""
@@ -180,7 +180,7 @@ msgstr "Paplašinājumi"
 
 msgctxt "maps_places"
 msgid "Address"
-msgstr ""
+msgstr "Adrese"
 
 #. https://duckduckgo.com/params near the top under "Privacy Settings"
 msgid "Address bar:"
@@ -188,7 +188,7 @@ msgstr "Adrešu josla:"
 
 msgctxt "feedback form"
 msgid "Advertisements"
-msgstr ""
+msgstr "Reklāmas"
 
 #. http://i.imgur.com/ZG0Mz3R.png
 msgctxt "settings"
@@ -218,7 +218,7 @@ msgid "All Layouts"
 msgstr "Visi izkārtojumi"
 
 msgid "All Places"
-msgstr ""
+msgstr "Visas vietas"
 
 msgid "All Regions"
 msgstr "Visi reģioni"
@@ -240,7 +240,7 @@ msgstr "Jebkāds formāts"
 
 msgctxt "install-duckduckgo"
 msgid "Almost there!"
-msgstr ""
+msgstr "Gandrīz galā!"
 
 msgctxt "homepage onboarding"
 msgid "Already a fan?"
@@ -324,10 +324,10 @@ msgstr ""
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
-msgstr ""
+msgstr "Mēs, DuckDuckGo, tam piekrītam."
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Australia"
 msgstr "Austrālija"
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "homepage onboarding"
 msgid "Back to search"
-msgstr ""
+msgstr "Atpakaļ pie meklēšanas"
 
 #. http://i.imgur.com/6Eip5h1.png
 msgctxt "settings"
@@ -426,22 +426,22 @@ msgid "Basic"
 msgstr "Pamata"
 
 msgid "Belgium (fr)"
-msgstr ""
+msgstr "Beļģija (fr)"
 
 msgid "Belgium (nl)"
 msgstr "Beļģija (nl)"
 
 msgctxt "settingsvalue"
 msgid "Best Available"
-msgstr ""
+msgstr "Labākā pieejamā"
 
 #. In the right menu panel of the homepage.
 msgid "Beta"
-msgstr ""
+msgstr "Beta"
 
 msgctxt "video-duration"
 msgid "Between 4 and 20 minutes"
-msgstr ""
+msgstr "No 4 līdz 20 minūtēm"
 
 #. The color black.
 msgid "Black"
@@ -449,23 +449,23 @@ msgstr "Melns"
 
 msgctxt "color"
 msgid "Black"
-msgstr ""
+msgstr "Melns"
 
 msgctxt "image-color"
 msgid "Black and White"
-msgstr ""
+msgstr "Melns un balsts"
 
 msgid "Block Trackers"
-msgstr ""
+msgstr "Bloķēt izsekotājus"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Block advertising trackers."
-msgstr ""
+msgstr "Bloķēt reklāmu izsekotājus"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Blocks trackers on websites you visit"
-msgstr ""
+msgstr "Bloķēt izsekotājus lapās, kuras apmeklējat"
 
 msgid "Blog"
 msgstr "Blogs"
@@ -476,7 +476,7 @@ msgstr "Zils"
 
 msgctxt "color"
 msgid "Blue"
-msgstr ""
+msgstr "Zils"
 
 #. Click "Show Bookmarklet and Settings Data" - http://i.imgur.com/WyGptiV.png
 #. In the box that opens - http://i.imgur.com/tZAkHF6.png
@@ -489,11 +489,11 @@ msgstr "Brazīlija"
 
 msgctxt "color"
 msgid "Brown"
-msgstr ""
+msgstr "Brūna"
 
 msgctxt "settingsvalue"
 msgid "Browser Preferred Language"
-msgstr ""
+msgstr "Pārlūkā norādītā valoda"
 
 msgid "Bulgaria"
 msgstr "Bulgārija"
@@ -520,7 +520,7 @@ msgstr "Kalendārs"
 
 msgctxt "maps_places"
 msgid "Call"
-msgstr ""
+msgstr "Zvanīt"
 
 msgid "Canada"
 msgstr "Kanāda"
@@ -632,7 +632,7 @@ msgstr "Izmaiņas kas notiek kad tu uzklikšķini uz videoklipa attēlu"
 
 msgctxt "settings"
 msgid "Changes whether the visited check mark is visible"
-msgstr ""
+msgstr "Pie rezultāta tiks norādīts, ka jau esat to apmeklējis"
 
 msgid "Chat"
 msgstr "Čats"
@@ -653,7 +653,7 @@ msgid "Check out the list of things that we've also made."
 msgstr ""
 
 msgctxt "Report image modal"
-msgid "Child sexual abuse"
+msgid "Bērnu seksuāla izmantošana"
 msgstr ""
 
 msgid "Chile"
@@ -693,7 +693,7 @@ msgid "Clear Region"
 msgstr "Atiestatīt reģionu"
 
 msgid "Clear your cookies often?"
-msgstr ""
+msgstr "Bieži tīri sīkdatnes (cookies)?"
 
 msgid "Click %s+%s!"
 msgstr "Spied %s+%s!"
@@ -915,7 +915,7 @@ msgid "Concerts"
 msgstr "Koncerti"
 
 msgid "Congratulations!"
-msgstr ""
+msgstr "Aspveicam!"
 
 #. http://i.imgur.com/epDTyUE.png
 msgctxt "theme"
@@ -952,7 +952,7 @@ msgstr "Kuponi"
 
 msgctxt "video-license"
 msgid "Creative Commons"
-msgstr ""
+msgstr "Creative Commons"
 
 msgctxt "attribution"
 msgid "Credits"
@@ -977,7 +977,7 @@ msgstr "Paraža"
 #. A setting that *you* choose and is not a default. 
 msgctxt "settingsvalue"
 msgid "Custom"
-msgstr ""
+msgstr "Pielāgots"
 
 msgctxt "settings"
 msgid "Custom %s"
@@ -989,7 +989,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Customize DuckDuckGo"
-msgstr ""
+msgstr "Pielāgot DuckDuckGo"
 
 msgid "Czech Republic"
 msgstr "Čehija"
@@ -1005,7 +1005,7 @@ msgid "Dark"
 msgstr "Tumšs"
 
 msgid "Data Privacy Day 2018"
-msgstr ""
+msgstr "Datu privātuma diena 2018"
 
 #. Instant Answer tab name
 msgid "Date"
@@ -1013,7 +1013,7 @@ msgstr "Randiņš"
 
 msgctxt "feedback form"
 msgid "Date Filters"
-msgstr ""
+msgstr "Datuma filtri"
 
 #. A theme name in the theme menu:
 #. https://duck.co/media/files/theme.png
@@ -1043,7 +1043,7 @@ msgstr "Attīstīt"
 
 msgctxt "attribution"
 msgid "Developer"
-msgstr ""
+msgstr "Izstrādātājs"
 
 #. In 0-click box -- link to definition.
 msgid "Dictionary"
@@ -1062,7 +1062,7 @@ msgstr "Vai domāji %s?"
 #. Non lle poño "enderezos" pois non se refire aos enderezos se non as instruccións para chegar a un lugar
 msgctxt "maps_places"
 msgid "Directions"
-msgstr ""
+msgstr "Norādes"
 
 msgctxt "settings"
 msgid "Directions Source"
@@ -1086,7 +1086,7 @@ msgstr ""
 
 #. Button that closes the new messagebox suggesting to add DDG, in the homepage.
 msgid "Dismiss"
-msgstr ""
+msgstr "Aizvērt"
 
 msgid "Dismiss forever"
 msgstr "Nerādīt"
@@ -1205,7 +1205,7 @@ msgstr "E-pasts"
 
 msgctxt "new tab page"
 msgid "Enable Most Visited Sites"
-msgstr ""
+msgstr "Iespējot Visbiežāk apmeklētās saites"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/fUS6WAi.png
@@ -1215,15 +1215,15 @@ msgstr "Iespējot saglabāšanu mākonī, ievadot savu pašreizējo paroli."
 
 msgctxt "settings"
 msgid "Enables keyboard shortcuts on the site"
-msgstr ""
+msgstr "Tiek iespējotas tastatūras saīsnes"
 
 msgid "Encrypt Connections"
-msgstr ""
+msgstr "Šifrēt savienojumus"
 
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Encrypts connections when possible"
-msgstr ""
+msgstr "Savienojumi tiek šifrēti, kad tas ir iespējams"
 
 msgid "Enter %shttps://duckduckgo.com%s"
 msgstr "Ievadi %shttps://duckduckgo.com%s"
@@ -1250,7 +1250,7 @@ msgstr ""
 
 msgctxt "email newsletter"
 msgid "Enter your email address."
-msgstr "Ievadu savu e-pasta adresi."
+msgstr "Ievadiet savu e-pasta adresi."
 
 msgctxt "cloudsave"
 msgid "Enter your pass phrase to load your settings:"
@@ -1288,14 +1288,14 @@ msgstr ""
 
 msgctxt "Report image modal"
 msgid "Explicit content"
-msgstr ""
+msgstr "Aizskarošs saturs"
 
 msgid "Extensions & More"
-msgstr ""
+msgstr "Paplašinājumi un vairāk"
 
 msgctxt "size"
 msgid "Extra Large"
-msgstr ""
+msgstr "Ļoti liels"
 
 #. <em>kf</em>'s label into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Favicons:"
@@ -1306,7 +1306,7 @@ msgstr "Atsauksmes"
 
 msgctxt "feedback form"
 msgid "Feedback Sent"
-msgstr ""
+msgstr "Atsauksme nosūtīta"
 
 #. https://duckduckgo.com/search_box
 msgid ""
@@ -1321,16 +1321,16 @@ msgstr ""
 
 #. The label for filter-by-size in images IA.
 msgid "Filter Options"
-msgstr ""
+msgstr "Filtra iespējas"
 
 msgid "Filter by date"
-msgstr ""
+msgstr "Filtrēt pēc datuma"
 
 msgid "Filter by region"
 msgstr "Filtrēt pēc reģiona"
 
 msgid "Final"
-msgstr ""
+msgstr "Rezultāts"
 
 msgid "Finally, click %sAdd%s"
 msgstr ""
@@ -1386,10 +1386,10 @@ msgid "GET requests"
 msgstr "Saņemt pieteikumus"
 
 msgid "Game ended"
-msgstr ""
+msgstr "Spēle beigusies"
 
 msgid "Games"
-msgstr ""
+msgstr "Spēles"
 
 msgid "General"
 msgstr "Galvenie"
@@ -1404,7 +1404,7 @@ msgstr "Vācija"
 
 #. app --->  "application" as in an iPhone app
 msgid "Get App"
-msgstr ""
+msgstr "Iegūt aplikāciju"
 
 msgctxt "maps_maps_module"
 msgid "Get Directions"
@@ -1416,7 +1416,7 @@ msgstr "Iesaistīties"
 
 msgctxt "SERP footer content"
 msgid "Get New Themes"
-msgstr ""
+msgstr "Iegūt jaunu dizainu"
 
 msgctxt "showcase_app"
 msgid "Get Our App & Extension"
@@ -1424,7 +1424,7 @@ msgstr "Iegūsti mūsu lietotni & paplašinājumus"
 
 msgctxt "showcase_privacy"
 msgid "Get Privacy Tips"
-msgstr ""
+msgstr "Iegūt privātuma ieteikumus"
 
 msgctxt "SERP footer content"
 msgid "Get Started at Duck.com"
@@ -1461,7 +1461,7 @@ msgstr "Labumi"
 
 msgctxt "color"
 msgid "Gray"
-msgstr ""
+msgstr "Pelēka"
 
 msgctxt "theme"
 msgid "Gray"
@@ -1476,7 +1476,7 @@ msgstr "Zaļš"
 
 msgctxt "color"
 msgid "Green"
-msgstr ""
+msgstr "Zaļa"
 
 #. Used for various color settings  query parameters values captions into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Grey"
@@ -1488,7 +1488,7 @@ msgstr ""
 #. http://i.imgur.com/LHG4IZQ.png
 msgctxt "settings"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #. <em>kh</em>'s label for one of the privacy settings query parameters into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "HTTPS:"
@@ -1579,11 +1579,11 @@ msgstr "Honkonga"
 
 msgctxt "maps_places"
 msgid "Hours"
-msgstr ""
+msgstr "Stundas"
 
 msgctxt "SERP footer content"
 msgid "How We Are Profitable"
-msgstr ""
+msgstr "Kā mēs iegūstam peļņu"
 
 #. Title for the stuffs explaining <em>how to change your passphrase</em>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -1616,7 +1616,7 @@ msgstr "Kā tas var būt anonīmi?"
 
 msgctxt "forecast"
 msgid "Humidity"
-msgstr ""
+msgstr "Mitrums"
 
 msgid "Hungary"
 msgstr "Ungārija"
@@ -1676,10 +1676,10 @@ msgstr ""
 
 msgctxt "settingsvalue"
 msgid "Image Tiles"
-msgstr ""
+msgstr "Attēlu fragmenti"
 
 msgctxt "Report image modal"
-msgid "Image contains explicit content"
+msgid "Attēls saturs "
 msgstr ""
 
 msgctxt "Report image modal"
@@ -1762,7 +1762,7 @@ msgstr "Automātiskais lejupielādētājs"
 #. Please update this translation if it no longer applies
 msgctxt "settings"
 msgid "Infinite Scroll for Images"
-msgstr ""
+msgstr "Automātiski ielādēt papildus attēlus"
 
 msgid "Install"
 msgstr "Uzstādīt"
@@ -1773,7 +1773,7 @@ msgstr "Sākt lietot DuckDuckGo"
 
 msgctxt "settings"
 msgid "Install DuckDuckGo"
-msgstr ""
+msgstr "uzstādīt DuckDuckGo"
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
 msgid "Install DuckDuckGo Safari Extension?"
@@ -1850,7 +1850,7 @@ msgstr "Darbi"
 
 msgctxt "SERP footer content"
 msgid "Join Our Team!"
-msgstr ""
+msgstr "Pievienojies mūsu komandai!"
 
 msgctxt "showcase_donate"
 msgid "Join our $500,000 Privacy Challenge"
@@ -1872,7 +1872,7 @@ msgid "Keyboard Shortcuts"
 msgstr "Klaviatūras īsceļi"
 
 msgid "Korea"
-msgstr ""
+msgstr "Koreja"
 
 #. http://i.imgur.com/L74c87B.png 
 #. Adjusts the displayed language of DuckDuckGo (translations)
@@ -1916,7 +1916,7 @@ msgstr "Latvija"
 
 #. Button that opens more informations in the new messagebox suggesting to add DDG, in the homepage.
 msgid "Learn %sMore%s"
-msgstr ""
+msgstr "Uzzināt %sVairāk%s"
 
 #. Coñecer, ter coñecemento...
 #. Option at the bottom of the homepage: http://i.imgur.com/HEtEDYE.png
@@ -2024,7 +2024,7 @@ msgstr "Atvērt mākoņa iestatījumus"
 
 #. In the search results page, when auto-loading is disabled, a button labeled "Load More" is shown to allow loading more results.
 msgid "Load More"
-msgstr ""
+msgstr "Ielādēt vairāk"
 
 #. http://i.imgur.com/7hi4hEj.png
 msgid "Load Settings"
@@ -2035,7 +2035,7 @@ msgstr "Lādējas..."
 
 msgctxt "settings"
 msgid "Loads more image results when scrolling"
-msgstr ""
+msgstr "Automātiski ielādēt attēlu rezultātus, virzot lapu uz leju"
 
 #. http://i.imgur.com/WTkvs9I.png
 msgctxt "settings"
@@ -2044,7 +2044,7 @@ msgstr "Parādīt vairāk rezultātus kad meklē"
 
 msgctxt "settings"
 msgid "Location"
-msgstr ""
+msgstr "Atrašanās vieta"
 
 msgctxt "video-duration"
 msgid "Long"
@@ -2061,7 +2061,7 @@ msgstr "Patīk DuckDuckGo?"
 
 msgctxt "noresults"
 msgid "Make sure all words are spelled correctly."
-msgstr ""
+msgstr "Pārbaudi, vai visi vārdi ir uzrakstīti pareizi."
 
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr ""
@@ -2070,7 +2070,7 @@ msgid "Malaysia"
 msgstr "Malaizija"
 
 msgid "Malaysia (en)"
-msgstr ""
+msgstr "Malaizija (en)"
 
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
 msgid "Map"
@@ -2078,10 +2078,10 @@ msgstr "Karte"
 
 msgctxt "settings"
 msgid "Map Rendering"
-msgstr ""
+msgstr "Kartes attēlošana"
 
 msgid "Maps"
-msgstr ""
+msgstr "Kartes"
 
 msgctxt "feedback form"
 msgid "Maps"
@@ -2089,7 +2089,7 @@ msgstr "Kartes"
 
 msgctxt "feedback form"
 msgid "Maps / Location Info"
-msgstr ""
+msgstr "Kartes / Atrašanās vietas informācija"
 
 #. In creating a new bang 
 #. reference: https://duckduckgo.com/newbang
@@ -2111,7 +2111,7 @@ msgstr "Vidējs"
 
 msgctxt "video-duration"
 msgid "Medium"
-msgstr ""
+msgstr "Vidējs"
 
 #. Header for front page menu
 msgid "Menu"
@@ -2119,7 +2119,7 @@ msgstr "Izvēlne"
 
 msgctxt "maps_places"
 msgid "Menu"
-msgstr ""
+msgstr "Izvēlne"
 
 msgctxt "settingsvalue"
 msgid "Metric (Kilograms, Meters, Celsius)"
@@ -2143,7 +2143,7 @@ msgstr "Viduvējs"
 
 msgctxt "settingsvalue"
 msgid "Moderate"
-msgstr ""
+msgstr "Viduvējs"
 
 #. Used to point to additional social networking profiles (in results).
 msgid "More"
@@ -2160,19 +2160,19 @@ msgid "More"
 msgstr "Vairāk"
 
 msgid "More Images"
-msgstr ""
+msgstr "Vairāk attēlu"
 
 msgid "More Info"
-msgstr ""
+msgstr "Vairāk informācijas"
 
 msgid "More Links"
 msgstr "Citas saites"
 
 msgid "More News"
-msgstr ""
+msgstr "Vairāk jaunumu"
 
 msgid "More Places"
-msgstr ""
+msgstr "Vairāk vietu"
 
 msgid "More Related Topics"
 msgstr "Vairāk Saistītu Tēmu"
@@ -2181,10 +2181,10 @@ msgid "More Themes"
 msgstr "Vairāk motīvu"
 
 msgid "More Videos"
-msgstr ""
+msgstr "Vairāk video"
 
 msgid "More about !bangs"
-msgstr ""
+msgstr "Vairāk par !bangs"
 
 #. "More at [link]"
 msgid "More at"
@@ -2236,11 +2236,11 @@ msgid "Muted red"
 msgstr "izslēgs sarkans"
 
 msgctxt "forecast"
-msgid "N"
+msgid "Z"
 msgstr ""
 
 msgctxt "forecast"
-msgid "NE"
+msgid "ZA"
 msgstr ""
 
 #. NPM = node.js package manager.
@@ -2249,7 +2249,7 @@ msgid "NPM"
 msgstr ""
 
 msgctxt "forecast"
-msgid "NW"
+msgid "ZR"
 msgstr ""
 
 #. Used in 0-click box for local results, e.g. <a href="http://duckduckgo.com/?q=black+lab+bistro">http://duckduckgo.com/?q=black+lab+bistro</a>
@@ -2311,7 +2311,7 @@ msgid "No %s found for %s%s%s."
 msgstr ""
 
 msgid "No More Photos"
-msgstr ""
+msgstr "Nav vairāk attēlu"
 
 msgctxt "settingsvalue"
 msgid "No Preference (Default)"
@@ -2323,7 +2323,7 @@ msgstr "Reģions Nav Atlasīts"
 
 msgctxt "settingsvalue"
 msgid "No Region Selected"
-msgstr ""
+msgstr "Nav izvēlēts regions"
 
 msgid "No Tracking. Ever."
 msgstr ""
@@ -2334,10 +2334,10 @@ msgstr "Bez pieaugušajiem paredzēta satura"
 
 msgctxt "safe search"
 msgid "No explicit images or videos"
-msgstr ""
+msgstr "Bez aizskarošiem attēliem un video"
 
 msgid "No results"
-msgstr ""
+msgstr "Nav rezultātu"
 
 msgctxt "noresults"
 msgid "No results found for %s%s%s."
@@ -2503,7 +2503,7 @@ msgid "Open Links in a New Tab"
 msgstr "Jauna cilne"
 
 msgid "Open Map"
-msgstr ""
+msgstr "Atvērt karti"
 
 msgid "Open Settings"
 msgstr "Atvērt iestatījumus"
@@ -2540,11 +2540,11 @@ msgstr "Oranžs"
 
 msgctxt "color"
 msgid "Orange"
-msgstr ""
+msgstr "Oranžs"
 
 msgctxt "feedback form"
 msgid "Other"
-msgstr ""
+msgstr "Cits"
 
 msgid "Other Settings"
 msgstr "Citi iestatījumi"
@@ -2649,7 +2649,7 @@ msgid "Personalize DuckDuckGo"
 msgstr ""
 
 msgid "Peru"
-msgstr ""
+msgstr "Peru"
 
 msgid "Philippines"
 msgstr "Filipīnas"
@@ -2659,23 +2659,23 @@ msgstr "Filipīnas"
 
 msgctxt "maps_places"
 msgid "Phone"
-msgstr ""
+msgstr "Tālrunis"
 
 msgctxt "maps_places"
 msgid "Phone Number"
-msgstr ""
+msgstr "Tālruņa numurs"
 
 msgctxt "image-type"
 msgid "Photograph"
-msgstr ""
+msgstr "Fotogrāfs"
 
 msgctxt "feedback form"
 msgid "Pick a category"
-msgstr ""
+msgstr "Izvēlieties kategoriju"
 
 msgctxt "feedback form"
 msgid "Pick a specific problem"
-msgstr ""
+msgstr "Izvēlieties konkrētu problēmu"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Pink"
@@ -2767,7 +2767,7 @@ msgid "Privacy"
 msgstr "Privātums"
 
 msgid "Privacy Blog"
-msgstr ""
+msgstr "Privātuma emuārs"
 
 msgid "Privacy Crash Course"
 msgstr ""
@@ -2784,7 +2784,7 @@ msgid "Privacy Newsletter"
 msgstr ""
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privātuma politika"
 
 #. https://duckduckgo.com/params. it is a bold header
 msgid "Privacy Settings"
@@ -2798,7 +2798,7 @@ msgstr "Privāta meklēšana"
 
 msgctxt "attribution"
 msgid "Producer"
-msgstr ""
+msgstr "Producents"
 
 #. Instant Answer Tab Name
 msgid "Products"
@@ -2823,18 +2823,18 @@ msgstr ""
 
 msgctxt "SERP footer content"
 msgid "Protect Your Devices"
-msgstr ""
+msgstr "Aizsargā savas ierīces"
 
 msgctxt "showcase_privacy"
 msgid "Protect Your Devices"
-msgstr ""
+msgstr "Aizsargā savas ierīces"
 
 msgid "Protect Your Privacy!"
-msgstr ""
+msgstr "Aizsargā savu privātumu!"
 
 msgctxt "showcase_app"
 msgid "Protect your data on every device."
-msgstr ""
+msgstr "Aizsargā savus datus visās ierīcēs."
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Purple"
@@ -2842,7 +2842,7 @@ msgstr "Violets"
 
 msgctxt "color"
 msgid "Purple"
-msgstr ""
+msgstr "Violets"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/FbCoYVE.png
@@ -2863,17 +2863,17 @@ msgstr "Citāti"
 
 msgctxt "new user poll"
 msgid "Radio or podcast"
-msgstr ""
+msgstr "Radio vai podkāsts"
 
 msgid "Read More"
-msgstr ""
+msgstr "Lasīt vairāk"
 
 msgctxt "SERP footer content"
 msgid "Read about how Google influences what people click."
 msgstr ""
 
 msgid "Recent News"
-msgstr ""
+msgstr "Jaunumi"
 
 msgctxt "region filter"
 msgid "Recent:"
@@ -2889,10 +2889,10 @@ msgstr "Sarkans"
 
 msgctxt "color"
 msgid "Red"
-msgstr ""
+msgstr "Sarkans"
 
 msgid "Reddit"
-msgstr ""
+msgstr "Reddit"
 
 msgctxt "settings"
 msgid "Redirect (when necessary)"
@@ -2940,7 +2940,7 @@ msgstr "Pētniecība"
 
 msgctxt "settings dropdown"
 msgid "Reset"
-msgstr ""
+msgstr "Atiestatīt"
 
 msgctxt "cloudsave"
 msgid "Reset All Settings"
@@ -2994,11 +2994,11 @@ msgstr "Rezultāta adreses krāsa"
 
 msgctxt "settings"
 msgid "Result URLs above snippet"
-msgstr ""
+msgstr "Rezultāta URL virs apraksta"
 
 msgctxt "settings"
 msgid "Result Visited Check Mark"
-msgstr ""
+msgstr "Jau apmeklēta rezultāta atzīmēšana"
 
 #. http://i.imgur.com/nRnQruy.png
 msgctxt "settings"
@@ -3017,7 +3017,7 @@ msgstr "Rezultātu izskats"
 #. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png 
 msgctxt "theme"
 msgid "Retro"
-msgstr ""
+msgstr "Vecmodīgs"
 
 #. Used in 0-click box for product results, e.g. <a href="https://duckduckgo.com/?q=9780061353246">https://duckduckgo.com/?q=9780061353246</a>
 msgid "Reviews"
@@ -3030,15 +3030,15 @@ msgid "Russia"
 msgstr "Krievija"
 
 msgctxt "forecast"
-msgid "S"
+msgid "D"
 msgstr ""
 
 msgctxt "forecast"
 msgid "SE"
-msgstr ""
+msgstr "DA"
 
 msgctxt "forecast"
-msgid "SW"
+msgid "DR"
 msgstr ""
 
 msgid "Safe Search"
@@ -3062,7 +3062,7 @@ msgstr "Drošā meklēšana bloķējusi dažus no rezultātiem meklējumam %s."
 #. For a button that shows satellite imagery on a map
 msgctxt "map-mode"
 msgid "Satellite"
-msgstr ""
+msgstr "Satelīts"
 
 msgid "Saudi Arabia"
 msgstr "Saūda Arābija"
@@ -3083,7 +3083,7 @@ msgid "Save Settings"
 msgstr "Saglabāt Iestatījumus"
 
 msgid "Save and Exit"
-msgstr "Saglabāt un iziet"
+msgstr "Saglabāt un turpināt meklēšanu"
 
 #. http://i.imgur.com/2X1kTSf.png
 msgctxt "settings"
@@ -3092,11 +3092,11 @@ msgstr "Anonīmi saglabāt savus iestatījumus mākonī"
 
 msgctxt "SERP footer content"
 msgid "Say Goodbye To Google"
-msgstr ""
+msgstr "Atvadies no Google"
 
 #. Needs Context
 msgid "Score"
-msgstr ""
+msgstr "Rezultāts"
 
 #. Instructions to add a search engine in Microsoft Edge
 msgid "Scroll down and click %sView advanced settings%s"
@@ -3113,7 +3113,7 @@ msgstr ""
 
 #. Context? Is this _a search_ (noun) or the verb _search_?
 msgid "Search"
-msgstr ""
+msgstr "Meklēt"
 
 msgid "Search Anonymously"
 msgstr ""
@@ -3144,7 +3144,7 @@ msgid "Search domain %s"
 msgstr "Meklēt domēnā %s"
 
 msgid "Search only for %s?"
-msgstr ""
+msgstr "Meklēt tikai %s?"
 
 #. http://i.imgur.com/6LZAoqH.png
 msgctxt "settings"
@@ -3168,7 +3168,7 @@ msgstr "Vai vēlaties meklēt informāciju mūsu XMPP tērzēšanas servisā?"
 
 msgctxt "feedback form"
 msgid "Security Issue"
-msgstr ""
+msgstr "Drošības problēmas"
 
 msgctxt "feedback form"
 msgid "Security Issue (Opens in New Tab)"
@@ -3180,10 +3180,10 @@ msgid "See Also"
 msgstr "Apskatīt vairāk"
 
 msgid "See Photos"
-msgstr ""
+msgstr "Skatīt attēlus"
 
 msgid "See more photos of %s"
-msgstr ""
+msgstr "Skatīt vairāk %s attēlus"
 
 msgctxt "SERP footer content"
 msgid "See our %straffic page%s for details."
@@ -3300,7 +3300,7 @@ msgid "Send feedback for:"
 msgstr "Iesniegt atsauksmes priekš:"
 
 msgid "Set DuckDuckGo as your %sdefault search engine"
-msgstr ""
+msgstr "Uzstādiet DuckDuckGo kā jūsu %sprimāro meklētājprogrammu"
 
 msgid "Set as Default Search Engine"
 msgstr "Iestatīt kā noklusējuma meklētājprogrammu"
@@ -3358,7 +3358,7 @@ msgstr "Parādīt vairāk"
 
 msgctxt "new tab page"
 msgid "Show Most Visited Sites"
-msgstr ""
+msgstr "Skatīt visvairāk apmeklētās lapas"
 
 msgctxt "settings"
 msgid "Show favicons for each result"
@@ -3408,7 +3408,7 @@ msgid "Show suggestions under the search box as you type"
 msgstr "Parādīt ieteikumus zem meklējuma loga kamēr Tu meklē"
 
 msgctxt "settings"
-msgid "Show the Result URL line above the snippet text"
+msgid "Rādīt rezultāta URL adresi virs apraksta"
 msgstr ""
 
 msgctxt "settings"
@@ -3421,11 +3421,11 @@ msgstr ""
 
 msgctxt "video-duration"
 msgid "Show videos of any length"
-msgstr ""
+msgstr "Rādīt jebkura garuma video"
 
 msgctxt "noresults"
 msgid "Show web results"
-msgstr ""
+msgstr "Skatīt mājaslapu rezultātus"
 
 msgctxt "settings"
 msgid "Show welcome message on top of the search results page"
@@ -3437,13 +3437,13 @@ msgid "Showing"
 msgstr "Tiek rādīti"
 
 msgid "Showing results excluding"
-msgstr ""
+msgstr "Tiek rādīti rezultāti, izņemot"
 
 msgid "Showing results from"
-msgstr ""
+msgstr "Rezultāti tiek rādīti no"
 
 msgid "Showing results without %s."
-msgstr ""
+msgstr "Tiek rādīti rezultāti bez %s."
 
 #. Instant Answer Tab Name
 msgid "Shows"
@@ -3572,7 +3572,7 @@ msgstr "Stingra"
 
 msgctxt "settingsvalue"
 msgid "Strict"
-msgstr ""
+msgstr "Stingra"
 
 #. in https://duckduckgo.com/newbang appears in the error message:
 #. e.g.:
@@ -3763,7 +3763,7 @@ msgstr ""
 #. Title for the theme menu:
 #. https://duck.co/media/files/theme.png
 msgid "Theme"
-msgstr "Tēma"
+msgstr "Dizains"
 
 #. http://i.imgur.com/LpFhb1e.png
 msgctxt "settings"
@@ -4271,7 +4271,7 @@ msgid "Who We Are"
 msgstr "Kas mēs esam"
 
 msgid "Why Privacy"
-msgstr ""
+msgstr "Kāpēc Privātums?"
 
 msgctxt "image-layout"
 msgid "Wide"
@@ -4399,7 +4399,7 @@ msgstr ""
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
-msgstr ""
+msgstr "Tavi dati nedrīkst tikt pārdoti."
 
 msgctxt "newsletter email collection"
 msgid ""
