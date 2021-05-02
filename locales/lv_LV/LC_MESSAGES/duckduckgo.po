@@ -16,14 +16,14 @@ msgstr "!Bang meklētāja saīsnes"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr "800 000 ASV dolāru privātuma ziedojumos!"
+msgstr "800 000 ASV dolāru ziedojumos privātumam!"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
 msgstr "%1$s miljardi meklējumu"
 
 msgid "%s blocked by safe search."
-msgstr "%1$s drošā meklēšanas bloķējumi"
+msgstr "%1$s drošās meklēšanas bloķējumi"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -41,7 +41,7 @@ msgstr "Pirms %1$s stundām"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr "%1$s privātuma ziedojumos!"
+msgstr "%1$s ziedojumos privātumam!"
 
 msgid "%s km"
 msgstr "%1$s km"
@@ -2281,17 +2281,17 @@ msgstr "Indonēzija (angļu)"
 #. Please update this translation if it no longer applies
 msgctxt "settings"
 msgid "Infinite Scroll"
-msgstr "Automātiskais lejupielādētājs"
+msgstr "Bezgalīga ritināšana"
 
 #. This setting used to be called 'Auto-Load Images'
 #. Please update this translation if it no longer applies
 msgctxt "settings"
 msgid "Infinite Scroll for Images"
-msgstr "Nepārtraukta attēlu ritināšana"
+msgstr "Bezgalīga attēlu ritināšana"
 
 msgctxt "settings"
 msgid "Infinite Scroll for Images and Videos"
-msgstr "Nepārtraukta attēlu un videoklipu ritināšana"
+msgstr "Bezgalīga attēlu un videoklipu ritināšana"
 
 msgctxt "settings"
 msgid "Infinite Scroll for Images, Videos, and Shopping"
@@ -2407,7 +2407,7 @@ msgstr "Saglabā meklēšanas vēsturi privātu."
 #. Section heading (for right column).
 msgctxt "settings"
 msgid "Keyboard Shortcuts"
-msgstr "Klaviatūras īsceļi"
+msgstr "Tastatūras īsceļi"
 
 msgid "Korea"
 msgstr "Koreja"
@@ -3443,7 +3443,7 @@ msgstr "Portugāle"
 
 msgctxt "settings"
 msgid "Preferred units of measure"
-msgstr "Ieteicamās mērvienības"
+msgstr "Vēlamās mērvienības"
 
 #. Main page under "More"
 msgid "Press"
@@ -3538,10 +3538,10 @@ msgstr "Tavas iesūtnes privātums"
 #. shown when DDG is selected after eu preference menu on android
 msgctxt "welcome message eu search preference android"
 msgid "Privacy, simplified"
-msgstr "Privātums – vienkāršots"
+msgstr "Vienkāršots privātums"
 
 msgid "Privacy, simplified."
-msgstr "Privātums – vienkāršots."
+msgstr "Vienkāršots privātums."
 
 msgid "Private Search"
 msgstr "Privāta meklēšana"
